@@ -4,7 +4,7 @@ Canvas Boilerplate is the go-to solution for quickly creating modern canvas piec
 
 1.  Clone the repo:
 
-        git clone git remote add origin https://github.com/neelesh17/Canvas-Boilerplate.git
+        git clone https://github.com/neelesh17/Canvas-Boilerplate.git
 
 2.  Install dependencies:
 
